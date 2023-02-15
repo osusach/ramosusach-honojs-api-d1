@@ -1,4 +1,5 @@
 # RamosUSACH Hono.js API
+<p align="center"><a href="https://www.linkedin.com/company/usachopensource" target="_blank" rel="noopener noreferrer"><img width="150" src="https://i.imgur.com/l7q68Hs.png" alt="USACH Open Source Logo"></a></p>
 
 This API just works as an easy way to access the information gathered by <a href="https://github.com/open-source-usach/usach-course-scrapper">USACH Course Scrapper</a>; contains all the courses, careers and faculties we could get from public sources.
 
