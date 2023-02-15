@@ -1,6 +1,9 @@
 # RamosUSACH Hono.js API
 <p align="center"><a href="https://www.linkedin.com/company/usachopensource" target="_blank" rel="noopener noreferrer"><img width="150" src="https://i.imgur.com/l7q68Hs.png" alt="USACH Open Source Logo"></a></p>
 
+<a href="https://github.com/open-source-usach/ramosusach-honojs-api-d1/blob/main/README.md"><img src = "https://img.shields.io/badge/lang-en-blue"></a>
+<a href = "https://github.com/open-source-usach/ramosusach-honojs-api-d1/blob/main/README.es.md"><img src="https://img.shields.io/badge/lang-es-yellow"></a>
+
 This API just works as an easy way to access the information gathered by <a href="https://github.com/open-source-usach/usach-course-scrapper">USACH Course Scrapper</a>; contains all the courses, careers and faculties we could get from public sources.
 
 We think we have all careers, but we know that, for almost all careers, we only have courses up to the 6th level of tuition, or end of the 3rd year. We know this is a major flaw, as it means we're missing at least 10-12 courses **per career**, so we're planning and working on the possibility to add more courses to the database, probably internally, by using (scrapping hehe) the data given personally for each student about its career at the university's intranet.
